@@ -1,0 +1,2 @@
+# discord-verification-bot
+verification
